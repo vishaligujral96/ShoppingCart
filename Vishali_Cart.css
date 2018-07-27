@@ -1,0 +1,76 @@
+#left{
+    width:75%;
+    height:1000px;
+    position: absolute;
+    border:2px solid black;
+}
+#right{
+    width:25%;
+    height:1000px;
+    position: absolute;
+    border:2px solid green;
+    margin-left: 75%;
+}
+#task{
+    width:20%;
+    height:40px;
+    border:2px solid purple;
+    margin-left:450px;
+    margin-top:750px; 
+    padding:20px;
+   
+
+}
+#reset{
+    width:30%;
+    height:40px;
+   
+    left:600px;
+    
+    
+    top:900px;
+}
+#add{
+    width:30%;
+    height:40px;
+   
+   margin-left: 80px;
+
+    
+    top:900px;  
+}
+
+#img{
+   width:50px;
+   height:50px;
+   border: 2px solid purple;
+
+
+
+}
+#search{
+    width:20%;
+    height:100px;
+    border:2px solid green;
+    margin-left:600px;
+    margin-top:30px; 
+    position:absolute;
+
+}
+#search1{
+    
+   
+    left:30px;
+   
+    position: absolute;
+    top:50px; 
+}
+
+#display{
+    width:75%;
+    height:500px;
+    position: absolute;
+    border:4px solid greenyellow;
+    margin-top:200px;
+    left:200px;
+}
